@@ -1,1 +1,2 @@
-const name = "arun"
+const name = "arun";
+console.log("Hello");
